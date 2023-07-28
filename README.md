@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakibmia.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14AwRNQ28vvH4u936eQ4DNH85PRV8nv--/view?usp=sharing](https://drive.google.com/file/d/14AwRNQ28vvH4u936eQ4DNH85PRV8nv--/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14AwRNQ28vvH4u936eQ4DNH85PRV8nv--/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
