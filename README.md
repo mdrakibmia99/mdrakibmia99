@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakibmia99&show_icons=true&locale=en" alt="mdrakibmia99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibmia99&" alt="mdrakibmia99" /></p>
+![Rakib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdrakibmia99&theme=react-dark)
