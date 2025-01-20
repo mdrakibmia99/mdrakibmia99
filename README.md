@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdrakib63447617" target="blank"><img src="https://img.shields.io/twitter/follow/mdrakib63447617?logo=twitter&style=for-the-badge" alt="mdrakib63447617" /></a> </p>
 
-- 🌱 I’m currently learning **Html,Css,Tailwind,Bootstrap,JavaScript**
+- 🌱 I’m currently learning **Html,Css,Tailwind,Bootstrap,JavaScript,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://rakib-mia-portfolio.vercel.app/](https://rakib-mia-portfolio.vercel.app/)
 
