@@ -40,5 +40,15 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrakibmia99&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrakibmia99&amp;theme=dark" style="max-width: 100%;">
 </div>
 
+<div align="center">
+
+![Rakib's GitHub Streak](https://streak-stats.demolab.com/?user=mdrakibmia99&theme=dark&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307)
+
+
+</div>
+
+<!-- <img alt="Rakib's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mdrakibmia99&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307";theme=dark" /> -->
+
+
 ###
 
