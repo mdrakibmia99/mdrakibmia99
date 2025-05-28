@@ -29,72 +29,144 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
 <!-- skill start -->
 
 <h2>🧰 Tech Stack</h2>
+<!-- 💻 Frontend -->
+<table align="center">
+  <tr>
+    <td colspan="5" align="center"><strong>💻 Frontend</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=vercel&logoColor=white" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Framer_Motion-000000?logo=framer&logoColor=fff" height="36" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<!-- 🛠️ Backend -->
+<table align="center">
+  <tr>
+    <td colspan="3" align="center"><strong>🛠️ Backend</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=fastapi&logoColor=fff" height="36" />
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>💻 Frontend</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=vercel&logoColor=white" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Framer_Motion-000000?logo=framer&logoColor=fff" />
-    </div>
-  </div>
+<!-- 🗃️ Database -->
+<table align="center">
+  <tr>
+    <td colspan="4" align="center"><strong>🗃️ Database</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?logo=prisma&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat&logoColor=white" height="36" />
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>🛠️ Backend</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/REST_API-FF6C37?logo=fastapi&logoColor=fff" />
-    </div>
-  </div>
+<!-- 💻 Programming -->
+<table align="center">
+  <tr>
+    <td colspan="3" align="center"><strong>💻 Programming</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" height="36" />
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>🗃️ Database</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Prisma_ORM-2D3748?logo=prisma&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat&logoColor=white" />
-    </div>
-  </div>
+<!-- ⚙️ Tools -->
+<table align="center">
+  <tr>
+    <td colspan="5" align="center"><strong>⚙️ Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Git_CLI-F05032?logo=git&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=fff" height="36" />
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>💻 Programming</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
-    </div>
-  </div>
+<!-- 🎨 Creative -->
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><strong>🎨 Creative</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" height="36" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" height="36" />
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>⚙️ Tools</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Git_CLI-F05032?logo=git&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Chrome_DevTools-4285F4?logo=googlechrome&logoColor=fff" />
-    </div>
-  </div>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 2px 2px 12px rgba(0,0,0,0.05); text-align: left;">
-    <h3>🎨 Creative</h3>
-    <div style="text-align: center;">
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff" />
-      <img style="height: 30px; margin: 4px;" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff" />
-    </div>
-  </div>
 
-</div>
+
 
 
 
