@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md Rakib Mia</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrakibmia99&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakibmia99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdrakibmia99&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakibmia99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrakibmia99" alt="mdrakibmia99" /></a> </p>
+<div align="center">
+  <img width="100%" src="[https://i.ibb.co/Xpm5Hpf/banner.png](https://github.com/user-attachments/assets/9a94019c-0f5a-41df-aa13-1648308677ec)" alt="Full Stack Developer Banner" />
+</div>
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/9a94019c-0f5a-41df-aa13-1648308677ec)
 
-<p align="left"> <a href="https://twitter.com/mdrakib63447617" target="blank"><img src="https://img.shields.io/twitter/follow/mdrakib63447617?logo=twitter&style=for-the-badge" alt="mdrakib63447617" /></a> </p>
+
 
 - 🌱 I’m currently learning **Html,Css,Tailwind,Bootstrap,JavaScript,TypeScript**
 
