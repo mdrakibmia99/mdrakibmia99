@@ -4,9 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdrakibmia99&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakibmia99" /> </p>
 
 <div align="center">
-  <img width="100%" src="[https://i.ibb.co/Xpm5Hpf/banner.png]()" alt="Full Stack Developer Banner" />
+  <img width="100%" src="https://github.com/mdrakibmia99/mdrakibmia99/blob/main/banner.png" alt="Full Stack Developer Banner" />
 </div>
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/9a94019c-0f5a-41df-aa13-1648308677ec)
 
 
 
