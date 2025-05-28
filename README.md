@@ -11,15 +11,13 @@
 
 ## 👨‍🎓 About Me
 
-I'm Md Rakib Mia, a Full Stack Web Developer with a B.Sc. in Computer Science and Engineering (CGPA 3.59). I specialize in building scalable, modern web applications using MERN stack, GraphQL, and Prisma. Passionate about clean code, real-world problem solving, and continuous learning.
+I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting fast, responsive, and scalable web applications. I have hands-on experience working with real clients and building real-world projects that solve meaningful problems. My focus is always on writing clean, maintainable code while ensuring top-notch performance. I'm continuously learning and evolving to stay updated with the latest technologies in the web development world.
 
----
-
-📌 **Quick Highlights**:
 - 🎓 **B.Sc. in CSE** | CGPA: **3.59**
 - 💼 Experienced with real-world freelance projects
 - 🌐 Full stack (MERN + GraphQL + Prisma + PostgreSQL)
 - 📚 Always learning, always building
+- 📫 How to reach me: **rakibmia.dev@gmail.com**  
 
 
 <h3 align="left">Connect with me:</h3>
