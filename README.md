@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Rakib Mia</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdrakibmia99&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakibmia99" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Rakib+Mia" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <img width="100%" src="https://github.com/mdrakibmia99/mdrakibmia99/blob/main/banner.png" alt="Full Stack Developer Banner" />
