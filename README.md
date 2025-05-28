@@ -9,15 +9,18 @@
 
 
 
-- 🌱 I’m currently learning **Html,Css,Tailwind,Bootstrap,JavaScript,TypeScript**
+## 👨‍🎓 About Me
 
-- 👨‍💻 All of my projects are available at [https://rakib-mia-portfolio.vercel.app/](https://rakib-mia-portfolio.vercel.app/)
+I'm Md Rakib Mia, a Full Stack Web Developer with a B.Sc. in Computer Science and Engineering (CGPA 3.59). I specialize in building scalable, modern web applications using MERN stack, GraphQL, and Prisma. Passionate about clean code, real-world problem solving, and continuous learning.
 
-- 💬 Ask me about **React Js**
+---
 
-- 📫 How to reach me **rakibmia.dev@gmail.com**
+📌 **Quick Highlights**:
+- 🎓 **B.Sc. in CSE** | CGPA: **3.59**
+- 💼 Experienced with real-world freelance projects
+- 🌐 Full stack (MERN + GraphQL + Prisma + PostgreSQL)
+- 📚 Always learning, always building
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14AwRNQ28vvH4u936eQ4DNH85PRV8nv--/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
