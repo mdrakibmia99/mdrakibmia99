@@ -19,13 +19,22 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
 - 📚 Always learning, always building
 - 📫 How to reach me: **rakibmia.dev@gmail.com**  
 
-
+<!-- contact start -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdrakib63447617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdrakib63447617" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18387450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18387450" height="30" width="40" /></a>
-<a href="https://fb.com/rakibmia.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibmia.dev" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/md-rakib-mia" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/devrakibmia" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/+8801913547448" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="30" width="40" />
+  </a>
 </p>
+
+<!-- contact end -->
+
 <!-- skill start -->
 
 <h2>🧰 Tech Stack</h2>
