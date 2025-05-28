@@ -64,9 +64,12 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Framer_Motion-000000?logo=framer&logoColor=fff" height="36" />
     </td>
-    <td></td>
+    <td align="center" width="120">
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white" height="36" />
+</td>
   </tr>
 </table>
+<br/>
 
 <!-- 🛠️ Backend -->
 <table align="center">
@@ -85,6 +88,7 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
     </td>
   </tr>
 </table>
+<br/>
 
 <!-- 🗃️ Database -->
 <table align="center">
@@ -106,6 +110,7 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
     </td>
   </tr>
 </table>
+<br/>
 
 <!-- 💻 Programming -->
 <table align="center">
@@ -124,6 +129,7 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
     </td>
   </tr>
 </table>
+<br/>
 
 <!-- ⚙️ Tools -->
 <table align="center">
@@ -148,6 +154,7 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
     </td>
   </tr>
 </table>
+<br/>
 
 <!-- 🎨 Creative -->
 <table align="center">
