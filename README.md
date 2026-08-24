@@ -18,11 +18,11 @@ I'm Md Rakib Mia, a passionate **Full Stack Web Developer** who loves crafting f
 - 🌐 Full stack (MERN + GraphQL + Prisma + PostgreSQL)
 - 📚 Always learning, always building
 - 📫 How to reach me: **rakibmia.dev@gmail.com**  
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="mdrakibmia99's GitHub profile" src="dark_mode.svg" />
-</picture>
+</picture> -->
 <!-- contact start -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
